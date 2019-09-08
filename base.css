@@ -50,7 +50,8 @@ img {
 }
 
 img.Bio_Img {
-	max-width: 25%;
+	max-width: 10%;
+	max-height: 10%;
 }
 
 footer {
