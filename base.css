@@ -1,0 +1,57 @@
+* {
+	background-color: #d1d1d1;
+	text-align: center;
+}
+
+p {
+	background-color: #ededed;
+}
+
+body {
+	font: 125% Tahoma, Geneva, sans-serif;
+	width: 90%;
+	max-width: 1200px;
+	margin: 25px;
+}
+
+header {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h3 {
+	text-align: center;
+}
+
+nav {
+	text-align: center;
+	border: 2px solid #00402F;
+	border-radius: 5px;
+}
+
+nav ul li {
+	font-weight: bold;
+	display: inline;
+	margin: 0px 25px;
+}
+
+section.Information {
+	background-color: #ededed;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img {
+	border-radius: 8px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
+	max-height: auto;
+}
+
+footer {
+	background-color: #5c5c5c;
+	color: white;
+	font: 85%;
+	clear: both;
+}
