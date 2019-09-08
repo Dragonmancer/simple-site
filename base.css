@@ -41,17 +41,17 @@ section.Information {
 	margin-right: auto;
 }
 
+img.Bio_Img {
+	width: 25%;
+	height: 25%;
+}
+
 img {
 	border-radius: 8px;
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 100%;
 	max-height: auto;
-}
-
-img.Bio_Img {
-	max-width: 10%;
-	max-height: 10%;
 }
 
 footer {
